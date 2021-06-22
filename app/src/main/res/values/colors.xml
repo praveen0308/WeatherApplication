@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="dark_purple">#10103a</color>
+    <color name="mid_light_purple">#212149</color>
+    <color name="light_purple">#1e1e45</color>
+    <color name="border_purple">#303061</color>
+    <color name="font_color">#9292a5</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="day_purple">#23234b</color>
+</resources>
